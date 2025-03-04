@@ -1,0 +1,11 @@
+name: Laser
+version: '1.0-SNAPSHOT'
+main: org.mateh.laser.Main
+api-version: '1.21'
+commands:
+  laser:
+    usage: |
+      /laser color <color>
+      /laser effect <effect>
+      /laser save
+      /laser load
